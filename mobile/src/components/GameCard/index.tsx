@@ -5,39 +5,39 @@ import { styles } from './styles';
 import { THEME } from '../../theme';
 
 export interface GameCardProps {
-    id: string;
-    title: string;
-    _count: {
-        ads: number;
-    };
-    banner: string;
+  id: string;
+  title: string;
+  _count: {
+    ads: number;
+  };
+  banner: string;
 }
 
 interface Props extends TouchableOpacityProps {
-    data: GameCardProps;
+  data: GameCardProps;
 }
 
 export function GameCard({ data, ...rest }: Props) {
-    return (
-        <TouchableOpacity style={styles.container}{...rest}>
-            <ImageBackground
-                style={styles.cover}
-                source={{uri:data.banner}}
-            >
+  return (
+    <TouchableOpacity style={styles.container}{...rest}>
+      <ImageBackground
+        style={styles.cover}
+        source={{ uri: data.banner }}
+      >
 
-                <LinearGradient
-                    colors={THEME.COLORS.FOOTER}
-                    style={styles.footer}
-                >
-                    <Text style={styles.name}>
-                        {data.title}
-                    </Text>
+        <LinearGradient
+          colors={THEME.COLORS.FOOTER}
+          style={styles.footer}
+        >
+          <Text style={styles.name}>
+            {data.title}
+          </Text>
 
-                    <Text style={styles.ads}>
-                        {data._count.ads} anúncios
-                    </Text>
-                </LinearGradient>
-            </ImageBackground>
-        </TouchableOpacity>
-    );
+          <Text style={styles.ads}>
+            {data._count.ads} anúncios
+          </Text>
+        </LinearGradient>
+      </ImageBackground>
+    </TouchableOpacity>
+  );
 }
