@@ -1,10 +1,9 @@
 # \<NLW/> eSports | Rocketseat
 ![imagem-nlw-esports](https://user-images.githubusercontent.com/4954302/191106024-9c384d95-1139-4a88-9b94-f7abf41f6cdc.png)
-[![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -102,6 +101,8 @@ O leiaute do projeto pode ser visualizado no link [design do projeto](https://ww
    ```
 
 ## 8. Licença
+![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 [Voltar ao topo](#1-objetivo)
