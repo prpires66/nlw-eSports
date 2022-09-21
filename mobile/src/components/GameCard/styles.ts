@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
   },
   ads: {
     color: THEME.COLORS.CAPTION_300,
-    fontSize: THEME.FONT_FAMILY.REGULAR,
+    fontSize: THEME.FONT_SIZE.MD,
     fontFamily: THEME.FONT_FAMILY.REGULAR
   }
 });
