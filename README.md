@@ -48,10 +48,10 @@ Desenvolvimento de aplicação para web utilizando [React](https://reactjs.org/)
 O leiaute do projeto pode ser visualizado no link [design do projeto](https://www.figma.com/file/MHLGpGZ8Dq4KTU4o1GIV5M/NLW-eSports-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 * ### 4.1 Interface mobile
-![image](https://user-images.githubusercontent.com/4954302/191153751-cb792f7d-b675-4baf-980d-a22bf6b8a07b.png)
+![image](https://user-images.githubusercontent.com/4954302/191153791-01e767d6-2a83-446b-abb8-60a20d339f29.png)
 
 * ### 4.2 Interface web
-![image](https://user-images.githubusercontent.com/4954302/191153791-01e767d6-2a83-446b-abb8-60a20d339f29.png)
+![image](https://user-images.githubusercontent.com/4954302/191153751-cb792f7d-b675-4baf-980d-a22bf6b8a07b.png)
 
 ## 5. Pré-requisitos
 
@@ -86,7 +86,7 @@ O leiaute do projeto pode ser visualizado no link [design do projeto](https://ww
    cd mobile && npm install
    ```
 ## 7. Execução
->Serão necessários 02 terminais simultâneos para execucão. Um para o back-end (server) e outrao para o front-end (mobile/web) 
+Serão necessários 02 terminais simultâneos para execucão. Um para o back-end (server) e outrao para o front-end (mobile/web)
    > Aplicação server
    ```sh
    npm run dev
