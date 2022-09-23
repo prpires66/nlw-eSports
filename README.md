@@ -28,7 +28,7 @@
   - [8. Licença](#8-licença)
   
 ## 1. Objetivo
- Registrar as atividades de estudo desenvolvidas durante o evento **\<NLW/> eSportes - 2022.**
+ Registrar as atividades de estudo desenvolvidas durante o evento **\<NLW/> eSports - 2022.**
 
 ## 2. Descrição
 O NLW (*Next Level Week*) é uma ação de marketing da [Rocketseat](https://www.rocketseat.com.br/) focada em programação. A abordagem é de apresentar conteúdos práticos e desenvolver uma aplicação completa em uma semana. O evento e composto de duas trilhas de aprendizagem: **explorer**, para usuários iniciantes e **ignite** para usuários mais experientes. Este projeto acompanha o desenvolvimento da trilha ignite.
